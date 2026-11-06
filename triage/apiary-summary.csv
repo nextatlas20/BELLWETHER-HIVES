@@ -1,0 +1,4 @@
+apiary_id,apiary_name,total_hives,ready_hives,monitor_hives,urgent_hives,no_inspection_hives,assessed_frames
+AP-EAST,East Clover,2,0,1,1,0,16
+AP-HILL,Hill Lantern,2,1,0,1,0,17
+AP-WOOD,Woodside,2,0,1,0,1,10

@@ -1,0 +1,7 @@
+hive_id,hive_name,apiary_id,apiary_name,inspection_id,inspected_on,queen_seen,mite_count,frame_count,status
+HV-01,Amber,AP-EAST,East Clover,IN-101,2026-09-20,YES,5,7,MONITOR
+HV-02,Bramble,AP-EAST,East Clover,IN-102,2026-09-18,NO,2,9,URGENT
+HV-03,Copper,AP-HILL,Hill Lantern,IN-104,2026-09-25,YES,2,7,READY
+HV-04,Dahlia,AP-HILL,Hill Lantern,IN-105,2026-09-12,YES,8,10,URGENT
+HV-05,Elm,AP-WOOD,Woodside,,,,,,NO_INSPECTION
+HV-06,Fern,AP-WOOD,Woodside,IN-112,2026-09-22,YES,4,10,MONITOR
